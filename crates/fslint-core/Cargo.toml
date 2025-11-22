@@ -21,3 +21,6 @@ chrono = { workspace = true }
 
 # Plugin dependencies (for built-in loading)
 git2 = { workspace = true }
+
+[dev-dependencies]
+tempfile = { workspace = true }
