@@ -1,0 +1,17 @@
+[package]
+name = "fslint-plugin-duplicate-finder"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+description = "Duplicate finder plugin for FSLint - hash-based duplicate detection"
+
+[dependencies]
+fslint-plugin-api = { path = "../../crates/fslint-plugin-api" }
+fslint-plugin-sdk = { path = "../../crates/fslint-plugin-sdk" }
+sha2 = { workspace = true }
+hex = "0.4"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
