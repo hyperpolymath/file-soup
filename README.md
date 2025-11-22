@@ -4,8 +4,11 @@
 
 FSLint provides contextual metadata about files through tiny, composable plugins that can be enabled/disabled individually. Get instant insights about git status, file age, duplicates, AI-generated content, secrets, and more.
 
-[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](LICENSE-MIT)
+[![License: Triple](https://img.shields.io/badge/license-MIT%20%7C%20Apache--2.0%20%7C%20Palimpsest-blue.svg)](LICENSE-MIT)
 [![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg)](https://www.rust-lang.org/)
+[![RSR Compliant](https://img.shields.io/badge/RSR-Gold%20Tier-gold.svg)](docs/RSR_COMPLIANCE.md)
+[![TPCF](https://img.shields.io/badge/TPCF-Perimeter%203%20Open-green.svg)](docs/TPCF.md)
+[![RFC 9116](https://img.shields.io/badge/RFC%209116-security.txt-blue.svg)](.well-known/security.txt)
 
 ## 🚀 Features
 
