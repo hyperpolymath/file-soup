@@ -27,8 +27,8 @@ The engine ships with several core plugins for immediate filesystem visibility:
 | file-age          | ✅      | Flags files modified within specific thresholds (e.g., < 7 days).
 | grouping          | ✅      | Categorizes files into types (Media, Dependencies, Source, Config).
 | bundle-check      | ✅      | Verifies if a directory meets the criteria for a cohesive "Package."
-| secret-scanner    | ❌      | Scans for high-entropy strings (API keys, credentials).
-| ai-detection      | ❌      | Identifies AI-generated metadata in images and documents.
+| secret-scanner    | ✅      | Scans for high-entropy strings (API keys, credentials).
+| ai-detection      | ✅      | Identifies AI-generated metadata in images and documents.
 |===
 
 == 🎯 Quick Start
