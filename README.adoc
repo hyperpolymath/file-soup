@@ -1,4 +1,4 @@
-= FSLint: File System Intelligence & Linting
+= File System Intelligence & Linting
 :author: Hyperpolymath
 :revnumber: 1.0.0
 :toc: macro
